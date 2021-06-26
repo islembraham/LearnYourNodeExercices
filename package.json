@@ -18,6 +18,6 @@
     "start": "npm run build && node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Islem Braham",
   "license": "ISC"
 }
